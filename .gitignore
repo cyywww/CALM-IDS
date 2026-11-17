@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[oc]
+.venv*/
+
+# macOS
+.DS_Store
+
+# Data, obtained separately (see README)
+datasets/
+
+# Written by the experiments
+results/
